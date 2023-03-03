@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <img width="100%"
+    srcset="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRU7XYOQ-LN115Pd0aTqwCh2vIElzD-AJQ1tQ&usqp=CAU 400w, https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTr302o4ici6zm2nz_WF5mxiehEUhMtxVq4A&usqp=CAU 600w ,
+    https://mobimg.b-cdn.net/v3/fetch/10/10c06d36f8a6ad541539e236fd4f182a.jpeg 800w"
+
+    size="(max-width:400px) 400px,
+           (max-width:600px) 600px,
+           800px"
+    
+    src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSEnwLVYKaaFYJCqeTeQZwX3hp21efzoks9Ig&usqp=CAU"
+    alt="">
+</body>
+</html>
