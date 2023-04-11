@@ -1,0 +1,128 @@
+// Operators 
+
+//--------------  1> Arithmetic Operators  -----------
+
+// a> Additiom 
+let x = 5
+var y = 10
+console.log("Addition is:",x+y)
+
+// b> Substraction
+console.log("Substraction is:",x-y)
+
+// c> Multiplication
+console.log("Multiplication is:",x*y)
+
+// d> Division
+console.log("Division is:",x/y)
+
+// e> Exponentition (pow)
+console.log("Exponentition is:",(x**y))
+//console.log("Power is:",pow(x,y))
+
+// f> Moduls
+console.log("Moduls is:",b%a)
+
+// g> Increment
+console.log(x)
+console.log("Pre Increment of x is:",++x)
+console.log(x)
+console.log("Post Increment of x is:",x++)
+console.log(x)
+
+// h> Decrement
+console.log(y)
+console.log("Pre Decrement of y is:",--y)
+console.log(y)
+console.log("Post Decrement of y is:",y--)
+console.log(y) 
+
+//----------------- 2> Assignment Operator ---------------
+
+// a> Equal to 
+a = 2
+b = 1
+console.log("a is equal to b:",a==b)
+
+// b> Pulse Equal to
+console.log("a pluse equal to :",a+=b)
+
+// c> Minus Equal to
+console.log("a minus equal to :",a-=b)
+
+// d> Multiply Equal to 
+console.log("a multiply equal to :",a*=b)
+
+// e> Moduls  Equal to
+console.log("a modulus  equal to :",a%=b)
+
+// f> Exponential  Equal to
+console.log("a exopnential equal to :",(a**=b))
+
+
+//---------------- 3> Comparison Operator  ------------
+
+// a>  Equal to
+p = 5
+q = 6
+console.log("p is equal to q :",p==q)
+
+// b> Not  Equal to
+console.log("p is not equal to q :",p!=q)
+
+// c> Greater than
+console.log("p is greater than q :",p>q)
+
+// d> Less than 
+console.log(" p is less than q :",p<q)
+
+//e> Greater than  Equal to
+console.log("p is greater than equal to q :",p>=q)
+
+// f> Less than  Equal to
+console.log("p is less than equal to q :",p<=q)
+
+// g> Ternary 
+console.log("p is equal to q or not :",p==q?true:false)
+
+
+
+//----------------- 4> Logical Operator  ---------------- 
+
+// a> Logical And
+r = 2
+s = 3
+console.log("r and  with s is:",r&&s)
+
+// b> Logical Or
+console.log("r or with s is :",r||s)
+
+// c> Logical Not
+console.log("r not with s is :",r!=s)
+
+
+
+//----------------  5> Bitwise Operator -------------------- 
+
+// a> AND
+m = 3
+n = 4
+console.log("m and with n is :",m&n)
+
+// b> OR
+console.log("m or with n is :",m|n)
+
+// c> NOT
+console.log("m not is :",~m)
+
+// d> XOR 
+console.log("m xor with n is :",m^n)
+
+// f> Left Shift
+console.log("left shift of m is :",m<<n)
+
+// g> Right Shift
+console.log("right shift of m is :",m>>n)
+
+// h> Unsigned Right Shift
+console.log("unsigned right shift of m is :",m>>>n)
